@@ -1,0 +1,19 @@
+/* ErrorMessage.css */
+.error-message {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: #ff4d4f;
+  color: #fff;
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  margin-top: 1rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.error-icon {
+  margin-right: 0.5rem;
+  font-size: 1.3rem;
+}
